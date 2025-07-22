@@ -1,0 +1,10 @@
+json
+asyncio
+math
+numpy
+curl-cffi
+rlottie_python
+scikit-learn
+colorspacious
+colormath
+Pillow
