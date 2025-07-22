@@ -97,5 +97,5 @@ async def colorSimilarity(short: str, num: int) -> dict:
     }
 
 if __name__ == "__main__":
-    result = asyncio.run(colorSimilarity("bdaycandle", 29702))
+    result = asyncio.run(colorSimilarity("bdaycandle", 96898))
     print(result)
